@@ -1,0 +1,18 @@
+.book-appointment-page {
+  padding: 4rem 0;
+}
+
+.book-appointment-page h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.booking-form {
+  max-width: 600px;
+  margin: 3rem auto;
+  background: white;
+  padding: 3rem;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
